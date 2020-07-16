@@ -54,5 +54,5 @@
 
 ## 질문이 있다면? 🤔
 
-![Gmail](https://img.shields.io/badge/Main-Gmail-d14836?style=for-the-badge&logo=gmail&link=mailto:simssy2205@gmail.com)
-![Gmail](https://img.shields.io/badge/Univ-Gmail-d14836?style=for-the-badge&logo=gmail&link=mailto:tlasy2205@khu.ac.kr)
+![Gmail](https://img.shields.io/badge/simssy2205@gmail.com-Main-d14836?style=for-the-badge&logo=gmail&link=mailto:simssy2205@gmail.com)
+![Gmail](https://img.shields.io/badge/tlasy2205@khu.ac.kr-Univ-d14836?style=for-the-badge&logo=gmail&link=mailto:tlasy2205@khu.ac.kr)
