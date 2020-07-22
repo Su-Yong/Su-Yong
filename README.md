@@ -2,7 +2,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true"/>
 <div style="height: 195px;">
 경희대학교 컴퓨터공학과 재학중인 20학번 <b>SuYong</b>입니다.<br/>
-현재 프론트엔드, <b>백엔드</b> 개발자로 일하고 있으며 절대 풀스택은 아닙니다... 시키지 말아주십시오 ㅠㅠ
+현재 프론트엔드, <b>백엔드</b> 개발자로 일하고 있습니다.
+
+개인 블로그는 없으며 `PS`를 못합니다.
+
+위에서 말했듯 프론트엔드, 백엔드 전부 다합니다. 절대 데브옵스는 안할겁니다...
+그만 시켜주세요 제발...
 
 경희대학교에서 하는 프로젝트는 모두
 
