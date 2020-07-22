@@ -1,6 +1,6 @@
 # Su-Yong
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true"/>
-<div height="195px">
+<div style="height: 195px">
 경희대학교 컴퓨터공학과 재학중인 20학번 <b>SuYong</b>입니다.<br/>
 현재 프론트엔드, <b>백엔드</b> 개발자로 일하고 있으며 절대 풀스택은 아닙니다... 시키지 말아주십시오 ㅠㅠ
 
