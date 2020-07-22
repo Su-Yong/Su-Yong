@@ -12,7 +12,7 @@
 경희대학교에서 하는 프로젝트는 모두
 
 <img width="25px" height="25px" src="https://github.com/KHU-SuYong.png"> KHU-SuYong</img>
-해당 `Organization`에서 진행하게 됩니다.
+해당 `Organization`에서 진행합니다.
 
 </div>
 
@@ -32,7 +32,6 @@
 
 를 사용합니다.
 </div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true"/>
 
 ## 나의 분야 ⚙️
 
