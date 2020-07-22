@@ -1,14 +1,26 @@
-<h1 align="center">Su-Yong <img width="36" height="36" src="https://github.com/Su-Yong.png"></img></h1>
-경희대학교 컴퓨터공학과 재학중인 20학번 수용입니다.<br/>
-프론트엔드, 백엔드 개발자로 일하고 있으며 새로운 기술은 언제나 환영합니다.
+# Su-Yong
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true"/>
+<div>
+경희대학교 컴퓨터공학과 재학중인 20학번 **SuYong**입니다.<br/>
+현재 프론트엔드, **백엔드** 개발자로 일하고 있으며 절대 풀스택은 아닙니다... 시키지 말아주십시오 ㅠㅠ
+</div>
 
-개인적으로 좋아하는 툴은 
-![Intellij](https://img.shields.io/badge/Intellij-000?style=for-the-badge&logo=intellij%20idea&logoColor=fff&link=https://www.jetbrains.com/ko-kr/idea/)
-와
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yong"/>
+<div>
+제가 사용중인 `IDE`는 Jetbrains의
+
+![Intellij](https://img.shields.io/badge/Intellij-000?style=for-the-badge&logo=intellij%20idea&logoColor=fff)
+![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=fff)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=fff)
+
+을 사용합니다.
+
+`CodeEditor`은 Microsoft의
+
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&link=https://code.visualstudio.com/)
-입니다.
 
-![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true)
+를 사용합니다.
+</div>
 
 ## 나의 분야 ⚙️
 
