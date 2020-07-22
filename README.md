@@ -1,10 +1,13 @@
 # Su-Yong
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true"/>
+<div height="195px">
+경희대학교 컴퓨터공학과 재학중인 20학번 <b>SuYong</b>입니다.<br/>
+현재 프론트엔드, <b>백엔드</b> 개발자로 일하고 있으며 절대 풀스택은 아닙니다... 시키지 말아주십시오 ㅠㅠ
+
+</div>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yong"/>
 <div>
-경희대학교 컴퓨터공학과 재학중인 20학번 **SuYong**입니다.<br/>
-현재 프론트엔드, **백엔드** 개발자로 일하고 있으며 절대 풀스택은 아닙니다... 시키지 말아주십시오 ㅠㅠ
-
 제가 사용중인 `IDE`는 Jetbrains의
 
 ![Intellij](https://img.shields.io/badge/Intellij-000?style=for-the-badge&logo=intellij%20idea&logoColor=fff)
@@ -19,6 +22,7 @@
 
 를 사용합니다.
 </div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true"/>
 
 ## 나의 분야 ⚙️
 
