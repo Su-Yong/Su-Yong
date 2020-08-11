@@ -66,7 +66,7 @@
 
 [![EveryKakaoBridge](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-android)](https://github.com/khu-suyong/linux-kakaotalk-android)
 [![EveryKakaoServer](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-server)](https://github.com/khu-suyong/every-kakao-server)
-[![EveryKakaoClient](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-client)](https://github.com/khu-suyong/linux-kakaotalk-client)
+[![EveryKakaoClient](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-client)](https://github.com/khu-suyong/every-kakao-client)
 
 [![EveryKakaoClientAndroid](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-client-android)](https://github.com/khu-suyong/linux-kakaotalk-client-android)
 [![EveryKakaoServerPython](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-server)](https://github.com/khu-suyong/linux-kakaotalk-server)
