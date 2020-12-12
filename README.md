@@ -20,9 +20,9 @@
 <div>
 제가 사용중인 `IDE`는 Jetbrains의
 
-![Intellij](https://img.shields.io/badge/Intellij-000?style=for-the-badge&logo=intellij%20idea&logoColor=fff)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=fff)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=fff)
+![Intellij](https://img.shields.io/badge/Intellij-000?style=for-the-badge&logo=intellij%20idea&logoColor=fff)
 
 을 사용합니다.
   
@@ -37,14 +37,15 @@
 
 * 주력으로 다루는 기술 🛠️
 
-![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
+![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Deno](https://img.shields.io/badge/-deno-000?style=for-the-badge&logo=deno&logoColor=fff)
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=for-the-badge&logo=android&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=000)
+![Deno](https://img.shields.io/badge/-deno-000?style=for-the-badge&logo=deno&logoColor=fff)
 
 * 관심 있는 기술 🎯
 
@@ -54,13 +55,18 @@
 ![Flutter](https://img.shields.io/badge/-flutter-025698?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Svelte](https://img.shields.io/badge/-svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff)
 
+## 집중하고 있는 개인 Repositories 🎯
+
+* 백엔드
+
+[![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=citrus)](https://github.com/design-thinking-6/citrus)
+
+* 프론트엔드
+
+[![suyong-front](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=suyong-front)](https://github.com/su-yong/suyong-front)
+`TODO: Electron을 이용한 무언가`
+
 ## 비교적 괜찮아 보이는 개인 Repositories 👍
-
-* 카카오봇
-
-[![ScriptableKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=ScriptableKakaoBot)](https://github.com/Su-Yong/ScriptableKakaoBot)
-[![KakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=kakaobot)](https://github.com/Su-Yong/KakaoBot)
-[![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=newkakaobot)](https://github.com/Su-Yong/NewKakaoBot)
 
 * 경희대의 산물
 
@@ -70,6 +76,15 @@
 
 [![EveryKakaoClientAndroid](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-client-android)](https://github.com/khu-suyong/linux-kakaotalk-client-android)
 [![EveryKakaoServerPython](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-server)](https://github.com/khu-suyong/linux-kakaotalk-server)
+
+[![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=citrus)](https://github.com/design-thinking-6/citrus)
+[![MPhaGo](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=mphago)](https://github.com/design-thinking-6/mphago)
+
+* 카카오봇
+
+[![ScriptableKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=ScriptableKakaoBot)](https://github.com/Su-Yong/ScriptableKakaoBot)
+[![KakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=kakaobot)](https://github.com/Su-Yong/KakaoBot)
+[![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=newkakaobot)](https://github.com/Su-Yong/NewKakaoBot)
 
 * 그때 그시절
 
