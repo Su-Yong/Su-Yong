@@ -55,16 +55,15 @@
 ![Flutter](https://img.shields.io/badge/-flutter-025698?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Svelte](https://img.shields.io/badge/-svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff)
 
-## 집중하고 있는 개인 Repositories 🎯
+## 집중하고 있는 Repositories 🎯
 
 * 백엔드
 
-[![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=citrus)](https://github.com/design-thinking-6/citrus)
+`현재는 없어용~~ 하기 시러영~~`
 
 * 프론트엔드
 
-[![suyong-front](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=suyong-front)](https://github.com/su-yong/suyong-front)
-`TODO: Electron을 이용한 무언가`
+[![KiwiTalk](https://github-readme-stats.vercel.app/api/pin/?username=KiwiTalk&repo=KiwiTalk)](https://github.com/KiwiTalk/KiwiTalk)
 
 ## 비교적 괜찮아 보이는 개인 Repositories 👍
 
