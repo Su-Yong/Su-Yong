@@ -45,15 +45,18 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=for-the-badge&logo=android&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=000)
+![React-Native](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=000)
 ![Deno](https://img.shields.io/badge/-deno-000?style=for-the-badge&logo=deno&logoColor=fff)
 
 * 관심 있는 기술 🎯
 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=go&logoColor=fff)
+![ReScript](https://img.shields.io/badge/-ReScript-e6484f?style=for-the-badge&logo=rescript&logoColor=fff)
 
 ![Flutter](https://img.shields.io/badge/-flutter-025698?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Svelte](https://img.shields.io/badge/-svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff)
+![Kotlin-Compose](https://img.shields.io/badge/-Kotlin%20Compose-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
 
 ## 집중하고 있는 Repositories 🎯
 
