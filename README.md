@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true"/>
 <div style="height: 195px;">
 경희대학교 컴퓨터공학과 재학중인 20학번 <b>SuYong</b>입니다.<br/>
-현재 프론트엔드, <b>백엔드</b> 개발자로 일하고 있습니다.
+현재 <b>프론트엔드</b>, 백엔드 개발자로 일하고 있습니다.
 
 개인 블로그는 없으며 `PS`를 못합니다.
 
