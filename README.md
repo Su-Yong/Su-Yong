@@ -1,6 +1,9 @@
 # Su-Yong
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true"/>
 <div style="height: 195px;">
+  
+  <b>군 입대: 2021.11.08 ~ 2023.08.07</b>
+  
 경희대학교 컴퓨터공학과 재학중(이었던)인 20학번 <b>SuYong</b>입니다.<br/>
 현재 <b>프론트엔드</b>개발자로 일하고 있습니다.
 
