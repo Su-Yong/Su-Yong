@@ -1,21 +1,17 @@
 # Su-Yong
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&border_color=444c56&locale=kr&show_icons=true&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true"/>
-<div style="height: 195px;">
-  
-  <b>군 입대: 2021.11.08 ~ 2023.08.07</b>
-  
-경희대학교 컴퓨터공학과 재학중(이었던)인 20학번 <b>SuYong</b>입니다.<br/>
-현재 <b>프론트엔드</b>개발자로 일하고 있습니다.
+ 
+경희대학교 컴퓨터공학과 재학중~~이었던~~인 20학번 **SuYong**입니다.
 
-경희대학교에서 하는 프로젝트는 모두
+현재 ~~**프론트엔드**개발자로 일하고~~있었지만... 군 복무중입니다.
 
-<img width="24px" height="24px" src="https://github.com/KHU-SuYong.png"> KHU-SuYong</img>
-해당 `Organization`에서 진행합니다.
+* **대한민국 공군: 2021.11.08. ~ 2023.08.07.**
 
-</div>
+[![Stats](https://github-readme-stats.vercel.app/api?username=su-yong&border_color=444c56&locale=kr&show_icons=true&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong?tab=repositories#gh-dark-mode-only)
+[![Stats](https://github-readme-stats.vercel.app/api?username=su-yong&locale=kr&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/Su-Yong?tab=repositories#gh-light-mode-only)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yong&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true&layout=compact&langs_count=10"/>
-<div>
+[![Rank](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yong&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true&layout=compact&langs_count=10)](https://github.com/Su-Yong?tab=repositories#gh-dark-mode-only)
+[![Rank](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yong&locale=kr&count_private=true&include_all_commits=true&layout=compact&langs_count=10)](https://github.com/Su-Yong?tab=repositories#gh-light-mode-only)
+
 제가 사용중인 `IDE`는 Jetbrains의
 
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=fff)
@@ -29,7 +25,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&link=https://code.visualstudio.com/)
 
 를 사용합니다.
-</div>
 
 ## 나의 분야 ⚙️
 
