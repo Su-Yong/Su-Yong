@@ -1,5 +1,5 @@
 # Su-Yong
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&border_color=444c56&locale=kr&show_icons=true&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true"/>
 <div style="height: 195px;">
   
   <b>군 입대: 2021.11.08 ~ 2023.08.07</b>
@@ -14,7 +14,7 @@
 
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yong&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true&layout=compact&langs_count=10"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yong&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true&layout=compact&langs_count=10"/>
 <div>
 제가 사용중인 `IDE`는 Jetbrains의
 
@@ -64,32 +64,32 @@
 
 * 프론트엔드
 
-[![KiwiTalk](https://github-readme-stats.vercel.app/api/pin/?username=KiwiTalk&repo=KiwiTalk&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/KiwiTalk/KiwiTalk)
+[![KiwiTalk](https://github-readme-stats.vercel.app/api/pin/?username=KiwiTalk&repo=KiwiTalk&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/KiwiTalk/KiwiTalk)
 
 ## 비교적 괜찮아 보이는 개인 Repositories 👍
 
 * 경희대의 산물
 
-[![EveryKakaoBridge](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-android&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-android)
-[![EveryKakaoServer](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-server&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-server)
-[![EveryKakaoClient](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-client&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-client)
+[![EveryKakaoBridge](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-android&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-android)
+[![EveryKakaoServer](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-server&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-server)
+[![EveryKakaoClient](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-client&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-client)
 
-[![EveryKakaoClientAndroid](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-client-android&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-client-android)
-[![EveryKakaoServerPython](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-server&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-server)
+[![EveryKakaoClientAndroid](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-client-android&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-client-android)
+[![EveryKakaoServerPython](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-server&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-server)
 
-[![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=citrus&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/citrus)
-[![MPhaGo](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=mphago&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/mphago)
+[![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&border_color=444c56&locale=kr&repo=citrus&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/citrus)
+[![MPhaGo](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=mphago&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/mphago)
 
 * 카카오봇
 
-[![ScriptableKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=ScriptableKakaoBot&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/ScriptableKakaoBot)
-[![KakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=kakaobot&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/KakaoBot)
-[![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=newkakaobot&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/NewKakaoBot)
+[![ScriptableKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=ScriptableKakaoBot&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/ScriptableKakaoBot)
+[![KakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=kakaobot&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/KakaoBot)
+[![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&border_color=444c56&locale=kr&repo=newkakaobot&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/NewKakaoBot)
 
 * 그때 그시절
 
-[![Vokkit](https://github-readme-stats.vercel.app/api/pin/?username=vokkit&repo=vokkit-old&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Vokkit/Vokkit-old)
-[![MinimapBE](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=minimapbe&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/minimapbe)
+[![Vokkit](https://github-readme-stats.vercel.app/api/pin/?username=vokkit&repo=vokkit-old&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Vokkit/Vokkit-old)
+[![MinimapBE](https://github-readme-stats.vercel.app/api/pin/?username=organization&border_color=444c56&locale=kr&repo=minimapbe&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/minimapbe)
 
 ## 관련 링크
 
