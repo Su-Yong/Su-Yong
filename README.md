@@ -60,11 +60,12 @@
 
 * 백엔드
 
-`현재는 없어용~~ 하기 시러영~~`
+  * ~~그런걸 나에게 시키지 말라~~
 
 * 프론트엔드
 
-[![KiwiTalk](https://github-readme-stats.vercel.app/api/pin/?username=KiwiTalk&repo=KiwiTalk&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/KiwiTalk/KiwiTalk)
+[![hotchoco-frontend](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=hotchoco-frontend&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/hotchoco-frontend#gh-dark-mode-only)
+[![hotchoco-frontend](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=hotchoco-frontend&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/hotchoco-frontend#gh-light-mode-only)
 
 ## 비교적 괜찮아 보이는 개인 Repositories 👍
 
