@@ -66,26 +66,38 @@
 
 * 경희대의 산물
 
-[![EveryKakaoBridge](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-android&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-android)
-[![EveryKakaoServer](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-server&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-server)
-[![EveryKakaoClient](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-client&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-client)
+[![EveryKakaoBridge](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-android&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-android#gh-dark-mode-only)
+[![EveryKakaoServer](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-server&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-server#gh-dark-mode-only)
+[![EveryKakaoClient](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-client&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-client#gh-dark-mode-only)
+[![EveryKakaoBridge](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-android&locale=kr&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-android#gh-light-mode-only)
+[![EveryKakaoServer](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-server&locale=kr&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-server#gh-light-mode-only)
+[![EveryKakaoClient](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-client&locale=kr&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-client#gh-light-mode-only)
 
-[![EveryKakaoClientAndroid](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-client-android&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-client-android)
-[![EveryKakaoServerPython](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-server&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-server)
+[![EveryKakaoClientAndroid](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-client-android&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-client-android#gh-dark-mode-only)
+[![EveryKakaoServerPython](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-server&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-server#gh-dark-mode-only)
+[![EveryKakaoClientAndroid](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-client-android&locale=kr&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-client-android#gh-light-mode-only)
+[![EveryKakaoServerPython](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-server&locale=kr&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-server#gh-light-mode-only)
 
-[![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&border_color=444c56&locale=kr&repo=citrus&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/citrus)
-[![MPhaGo](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=mphago&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/mphago)
+[![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&border_color=444c56&locale=kr&repo=citrus&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/citrus#gh-dark-mode-only)
+[![MPhaGo](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=mphago&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/mphago#gh-dark-mode-only)
+[![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&locale=kr&repo=citrus&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/citrus#gh-light-mode-only)
+[![MPhaGo](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=mphago&locale=kr&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/mphago#gh-light-mode-only)
 
 * 카카오봇
 
-[![ScriptableKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=ScriptableKakaoBot&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/ScriptableKakaoBot)
-[![KakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=kakaobot&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/KakaoBot)
-[![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&border_color=444c56&locale=kr&repo=newkakaobot&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/NewKakaoBot)
+[![ScriptableKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=ScriptableKakaoBot&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/ScriptableKakaoBot#gh-dark-mode-only)
+[![KakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=kakaobot&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/KakaoBot#gh-dark-mode-only)
+[![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&border_color=444c56&locale=kr&repo=newkakaobot&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/NewKakaoBot#gh-dark-mode-only)
+[![ScriptableKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=ScriptableKakaoBot&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/ScriptableKakaoBot#gh-light-mode-only)
+[![KakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=kakaobot&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/KakaoBot#gh-light-mode-only)
+[![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&locale=kr&repo=newkakaobot&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/NewKakaoBot#gh-light-mode-only)
 
 * 그때 그시절
 
-[![Vokkit](https://github-readme-stats.vercel.app/api/pin/?username=vokkit&repo=vokkit-old&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Vokkit/Vokkit-old)
-[![MinimapBE](https://github-readme-stats.vercel.app/api/pin/?username=organization&border_color=444c56&locale=kr&repo=minimapbe&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/minimapbe)
+[![Vokkit](https://github-readme-stats.vercel.app/api/pin/?username=vokkit&repo=vokkit-old&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Vokkit/Vokkit-old#gh-dark-mode-only)
+[![MinimapBE](https://github-readme-stats.vercel.app/api/pin/?username=organization&border_color=444c56&locale=kr&repo=minimapbe&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/minimapbe#gh-dark-mode-only)
+[![Vokkit](https://github-readme-stats.vercel.app/api/pin/?username=vokkit&repo=vokkit-old&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Vokkit/Vokkit-old#gh-light-mode-only)
+[![MinimapBE](https://github-readme-stats.vercel.app/api/pin/?username=organization&locale=kr&repo=minimapbe&count_private=true&include_all_commits=true)](https://github.com/organization/minimapbe#gh-light-mode-only)
 
 ## 관련 링크
 
