@@ -59,6 +59,8 @@
 
 * 프론트엔드
 
+[![use-request](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=use-request&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/use-request#gh-dark-mode-only)
+[![use-request](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=use-request&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/use-request#gh-light-mode-only)
 [![hotchoco-frontend](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=hotchoco-frontend&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/hotchoco-frontend#gh-dark-mode-only)
 [![hotchoco-frontend](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=hotchoco-frontend&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/hotchoco-frontend#gh-light-mode-only)
 
@@ -101,7 +103,7 @@
 
 ## 관련 링크
 
-* 블로그: https://blog.suyong.me
-* 이메일:
+* [블로그](https://blog.suyong.me)
+* 이메일
   * ![Gmail](https://img.shields.io/badge/simssy2205@gmail.com-Main-d14836?style=for-the-badge&logo=gmail&link=mailto:simssy2205@gmail.com)
   * ![Gmail](https://img.shields.io/badge/tlasy2205@khu.ac.kr-Univ-d14836?style=for-the-badge&logo=gmail&link=mailto:tlasy2205@khu.ac.kr)
