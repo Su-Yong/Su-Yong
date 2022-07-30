@@ -53,16 +53,12 @@
 
 ## 집중하고 있는 Repositories 🎯
 
-* 백엔드
-
-  * ~~그런걸 나에게 시키지 말라~~
-
-* 프론트엔드
-
-[![use-request](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=use-request&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/use-request#gh-dark-mode-only)
-[![use-request](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=use-request&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/use-request#gh-light-mode-only)
+[![react-native-css](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=react-native-css&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/react-native-css#gh-dark-mode-only)
+[![react-native-css](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=react-native-css&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/react-native-css#gh-light-mode-only)
 [![hotchoco-frontend](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=hotchoco-frontend&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/hotchoco-frontend#gh-dark-mode-only)
 [![hotchoco-frontend](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=hotchoco-frontend&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/hotchoco-frontend#gh-light-mode-only)
+[![use-request](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=use-request&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/use-request#gh-dark-mode-only)
+[![use-request](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=use-request&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/use-request#gh-light-mode-only)
 
 ## 비교적 괜찮아 보이는 개인 Repositories 👍
 
@@ -85,7 +81,7 @@
 [![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&locale=kr&repo=citrus&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/citrus#gh-light-mode-only)
 [![MPhaGo](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=mphago&locale=kr&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/mphago#gh-light-mode-only)
 
-* 카카오봇
+* Outdated
 
 [![ScriptableKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=ScriptableKakaoBot&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/ScriptableKakaoBot#gh-dark-mode-only)
 [![KakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=kakaobot&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/KakaoBot#gh-dark-mode-only)
@@ -93,9 +89,6 @@
 [![ScriptableKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=ScriptableKakaoBot&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/ScriptableKakaoBot#gh-light-mode-only)
 [![KakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=kakaobot&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/KakaoBot#gh-light-mode-only)
 [![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&locale=kr&repo=newkakaobot&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/NewKakaoBot#gh-light-mode-only)
-
-* 그때 그시절
-
 [![Vokkit](https://github-readme-stats.vercel.app/api/pin/?username=vokkit&repo=vokkit-old&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Vokkit/Vokkit-old#gh-dark-mode-only)
 [![MinimapBE](https://github-readme-stats.vercel.app/api/pin/?username=organization&border_color=444c56&locale=kr&repo=minimapbe&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/minimapbe#gh-dark-mode-only)
 [![Vokkit](https://github-readme-stats.vercel.app/api/pin/?username=vokkit&repo=vokkit-old&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Vokkit/Vokkit-old#gh-light-mode-only)
