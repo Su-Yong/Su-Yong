@@ -1,8 +1,9 @@
 # Su-Yong
  
-경희대학교 컴퓨터공학과 휴학중인 20학번 **SuYong**입니다.
+경희대학교 컴퓨터공학과 20학번 **SuYong**입니다.
+**프론트엔드** 분야에 관심이 많습니다
 
-현재 **프론트엔드**를 위주로 개발하고 있습니다.
+[자세한 활동 및 경력](https://suyong.notion.site/Sim-SuYong-a0afc3b63dc0407a890eb64781d01781?pvs=4)은 여기서 확인해주세요
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=su-yong&border_color=444c56&locale=kr&show_icons=true&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong?tab=repositories#gh-dark-mode-only)
 [![Stats](https://github-readme-stats.vercel.app/api?username=su-yong&locale=kr&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/Su-Yong?tab=repositories#gh-light-mode-only)
@@ -34,15 +35,15 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Android](https://img.shields.io/badge/-Android-3ddc84?style=for-the-badge&logo=android&logoColor=fff)
+![Solid-JS](https://img.shields.io/badge/-Solid-446b9e?style=for-the-badge&logo=solid&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=000)
 ![React-Native](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=000)
+![Android](https://img.shields.io/badge/-Android-3ddc84?style=for-the-badge&logo=android&logoColor=fff)
 
 * 관심 있는 기술 🎯
 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=go&logoColor=fff)
-![ReScript](https://img.shields.io/badge/-ReScript-e6484f?style=for-the-badge&logo=rescript&logoColor=fff)
 
 ![Flutter](https://img.shields.io/badge/-flutter-025698?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Svelte](https://img.shields.io/badge/-svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff)
@@ -50,12 +51,10 @@
 
 ## 집중하고 있는 Repositories 🎯
 
-[![react-native-css](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=react-native-css&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/react-native-css#gh-dark-mode-only)
-[![react-native-css](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=react-native-css&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/react-native-css#gh-light-mode-only)
-[![hotchoco-frontend](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=hotchoco-frontend&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/hotchoco-frontend#gh-dark-mode-only)
-[![hotchoco-frontend](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=hotchoco-frontend&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/hotchoco-frontend#gh-light-mode-only)
-[![use-request](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=use-request&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/use-request#gh-dark-mode-only)
-[![use-request](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=use-request&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/use-request#gh-light-mode-only)
+[![Youtube Music](https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=Youtube-Music&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/th-ch/youtube-music#gh-dark-mode-only)
+[![Youtube Music](https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=Youtube-Music&locale=kr&count_private=true&include_all_commits=true)](https://github.com/th-ch/youtube-music#gh-light-mode-only)
+[![alspotron](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=alspotron&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-dark-mode-only)
+[![alspotron](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=alspotron&locale=kr&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-light-mode-only)
 
 ## 비교적 괜찮아 보이는 개인 Repositories 👍
 
@@ -93,7 +92,7 @@
 
 ## 관련 링크
 
-* [블로그](https://blog.suyong.me)
+* ~~[블로그](https://blog.suyong.me)~~
 * 이메일
   * ![Gmail](https://img.shields.io/badge/simssy2205@gmail.com-Main-d14836?style=for-the-badge&logo=gmail&link=mailto:simssy2205@gmail.com)
   * ![Gmail](https://img.shields.io/badge/tlasy2205@khu.ac.kr-Univ-d14836?style=for-the-badge&logo=gmail&link=mailto:tlasy2205@khu.ac.kr)
