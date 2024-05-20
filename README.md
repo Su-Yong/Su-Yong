@@ -55,6 +55,8 @@
 [![Youtube Music](https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=Youtube-Music&locale=kr&count_private=true&include_all_commits=true)](https://github.com/th-ch/youtube-music#gh-light-mode-only)
 [![alspotron](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=alspotron&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-dark-mode-only)
 [![alspotron](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=alspotron&locale=kr&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-light-mode-only)
+[![electron-persist](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=electron-persist&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/electron-persist#gh-dark-mode-only)
+[![electron-persist](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=electron-persist&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/electron-persist#gh-light-mode-only)
 
 ## 비교적 괜찮아 보이는 개인 Repositories 👍
 
