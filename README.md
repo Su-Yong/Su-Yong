@@ -3,7 +3,7 @@
 경희대학교 컴퓨터공학과 20학번 **SuYong**입니다.
 **프론트엔드** 분야에 관심이 많습니다
 
-[자세한 활동 및 경력](https://suyong.notion.site/Sim-SuYong-a0afc3b63dc0407a890eb64781d01781?pvs=4)은 여기서 확인해주세요
+[자세한 활동 및 경력](https://suyong.notion.site/SuYong-41db023d6562414096880d8a9bab6cdd?pvs=4)은 여기서 확인해주세요
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=su-yong&border_color=444c56&locale=kr&show_icons=true&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong?tab=repositories#gh-dark-mode-only)
 [![Stats](https://github-readme-stats.vercel.app/api?username=su-yong&locale=kr&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/Su-Yong?tab=repositories#gh-light-mode-only)
