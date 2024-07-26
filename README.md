@@ -51,6 +51,12 @@
 
 ## 집중하고 있는 Repositories 🎯
 
+> [!NOTE]
+> SW 경진대회 준비중!
+
+[![FarmPro](https://github-readme-stats.vercel.app/api/pin/?username=Art-Chain&repo=FarmPro&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Art-Chain/FarmPro#gh-dark-mode-only)
+[![FarmPro](https://github-readme-stats.vercel.app/api/pin/?username=Art-Chain&repo=FarmPro&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Art-Chain/FarmPro#gh-light-mode-only)
+
 [![Youtube Music](https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=Youtube-Music&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/th-ch/youtube-music#gh-dark-mode-only)
 [![Youtube Music](https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=Youtube-Music&locale=kr&count_private=true&include_all_commits=true)](https://github.com/th-ch/youtube-music#gh-light-mode-only)
 [![alspotron](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=alspotron&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-dark-mode-only)
