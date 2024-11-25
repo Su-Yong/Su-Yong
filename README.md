@@ -97,6 +97,7 @@
 ## 관련 링크
 
 * ~~[블로그](https://blog.suyong.me)~~
+* [프로필](https://suyong.notion.site)
 * 이메일
-  * ![Gmail](https://img.shields.io/badge/simssy2205@gmail.com-Main-d14836?style=for-the-badge&logo=gmail&link=mailto:simssy2205@gmail.com)
-  * ![Gmail](https://img.shields.io/badge/tlasy2205@khu.ac.kr-Univ-d14836?style=for-the-badge&logo=gmail&link=mailto:tlasy2205@khu.ac.kr)
+  * ![Gmail](https://img.shields.io/badge/me@suyong.me-Main-d14836?style=for-the-badge&logo=gmail&link=mailto:me@suyong.me)
+  * ![Gmail](https://img.shields.io/badge/univ@suyong.me-Univ-d14836?style=for-the-badge&logo=gmail&link=mailto:univ@suyong.me)
