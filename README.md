@@ -1,6 +1,8 @@
 # Su-Yong
 > Web Frontend Developer
 
+![](https://komarev.com/ghpvc/?username=Su-Yong&style=for-the-badge&label=Views)
+
 | Stats | Language |
 | --- | --- |
 | [![Stats](https://github-readme-stats.vercel.app/api?username=su-yong&border_color=444c56&locale=kr&show_icons=true&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong?tab=repositories#gh-dark-mode-only)[![Stats](https://github-readme-stats.vercel.app/api?username=su-yong&locale=kr&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/Su-Yong?tab=repositories#gh-light-mode-only) | [![Rank](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yong&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true&layout=compact&langs_count=10)](https://github.com/Su-Yong?tab=repositories#gh-dark-mode-only)[![Rank](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yong&locale=kr&count_private=true&include_all_commits=true&layout=compact&langs_count=10)](https://github.com/Su-Yong?tab=repositories#gh-light-mode-only) |
