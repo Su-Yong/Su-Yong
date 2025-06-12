@@ -20,8 +20,8 @@
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=for-the-badge&logo=android&logoColor=fff)
 
 ## Repositories
-[![alspotron](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=alspotron&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-dark-mode-only)
-[![alspotron](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=alspotron&locale=kr&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-light-mode-only)
+[![lyrs](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=lyrs&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-dark-mode-only)
+[![lyrs](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=lyrs&locale=kr&count_private=true&include_all_commits=true)](https://github.com/organization/alspotron#gh-light-mode-only)
 [![Youtube Music](https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=Youtube-Music&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/th-ch/youtube-music#gh-dark-mode-only)
 [![Youtube Music](https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=Youtube-Music&locale=kr&count_private=true&include_all_commits=true)](https://github.com/th-ch/youtube-music#gh-light-mode-only)
 [![electron-persist](https://github-readme-stats.vercel.app/api/pin/?username=Su-Yong&repo=electron-persist&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/electron-persist#gh-dark-mode-only)
